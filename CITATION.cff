@@ -1,0 +1,17 @@
+﻿cff-version: 1.2.0
+message: "If you use this repository or the tool it reviews, please cite the official deal page as the source."
+title: "Blogify-AI — Developer Review & Integration Guide"
+type: software
+authors:
+  - given-names: Developer
+    family-names: Review
+repository-code: "https://github.com/ami605/saaspic"
+url: "https://blogify.ai?fpr=h1oufc"
+abstract: "This repository provides an honest developer review, verified 2026 pricing, and API integration examples for Blogify-AI. The official deal page is the canonical source for pricing and discounts."
+keywords:
+  - "Blogify-AI"
+  - "saas-review"
+  - "developer-guide"
+  - "api-example"
+license: MIT
+date-released: "2026-06-04"

@@ -1,0 +1,12 @@
+# AI-friendly repository — all crawlers welcome
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
